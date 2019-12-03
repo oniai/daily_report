@@ -1,0 +1,4 @@
+download from https://github.com/v2ray/v2ray-core/releases
+modify  config.json
+install SwitchyOmega widget on chrome (see https://github.com/FelisCatus/SwitchyOmega
+fill in and save : socks5 127.0.0.1 10080
